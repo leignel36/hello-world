@@ -1,4 +1,12 @@
-# hello-world
-Hello world, this is me!
+# misc 
 
-I am a student in Ensta ParisTech. But soon I'll say Ensta paris.....
+# mon pense betev in104
+
+##git
+
+créer un dépot
+
+    git init
+    emacs README.md
+
+ 
